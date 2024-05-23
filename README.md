@@ -6,7 +6,7 @@
 <p align="center">Device: Samsung Galaxy S20 FE</p>
 <p align="center">Device characteristics: https://developer.samsung.com/galaxy-emulator-skin/galaxy-s.html</p>
 <p align="center">Ok.ru native app version: 24.5.21</p>
-<p align="center">Ok.ru native and mobile web app was teste using ENGLISH INTERFACE</p>
+<p align="center">Ok.ru native and mobile web app were tested using ENGLISH INTERFACE</p>
 
 ## Author
 [Labib Saleh](https://github.com/labib92)
